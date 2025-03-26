@@ -26,9 +26,10 @@ O **Vizinn** é uma plataforma inovadora que conecta moradores de condomínios e
 ## 🛠 Tecnologias Usadas
 
 ### **Front-End (TypeScript)**
+
 - ⚛ **React Native** – Framework para construção de apps móveis nativos.
 - 🚀 **Ignite** – Boilerplate para aceleração do desenvolvimento.
-- 🛡 **TypeScript** – Tipagem estática para mais segurança e produtividade.
+- 🎨 **NativeWind (TailwindCSS)** – Estilização eficiente e otimizada para React Native.
 - 🔗 **Axios** – Requisições HTTP eficientes.
 - 📲 **React Navigation** – Sistema de navegação flexível.
 
