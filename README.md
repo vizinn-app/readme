@@ -6,128 +6,127 @@ O **Vizinn** é uma plataforma inovadora que conecta moradores de condomínios e
 
 ## 🚀 Foco Inicial
 
-Lançamento no Nordeste do Brasil 
-O usuário poderá definir a área de interesse, permitindo transações dentro de seu condomínio ou em locais estratégicos, como universidades, centros comerciais e bairros específicos.
+- **Lançamento no Nordeste do Brasil**
+- O usuário poderá definir a área de interesse, permitindo transações dentro de seu condomínio ou em locais estratégicos, como universidades, centros comerciais e bairros específicos.
 
 ## 📌 Funcionalidades Principais
 
-- **Marketplace Exclusivo** – Apenas moradores verificados ou usuários em regiões próximas podem anunciar e comprar.
-- **Anuncios Destaques** – O usuário poderá pagar pra destacar seu anúncio, e aparecer de alguma outra forma no app.
-- **Filtros de Localização Inteligente** – Busque produtos e serviços dentro do seu condomínio ou em áreas específicas, como universidades, bairros e pontos de interesse.
-- **Área de Trocas e Doações** – Incentivo à economia circular dentro das comunidades.
-- **Painel para Síndicos** – Avisos, regras do condomínio e organização de eventos.
-- **Avaliações e Reputação** – Sistema de feedback para aumentar a confiança entre os usuários.
-- **Segurança e Moderação** – Denúncia de anúncios inadequados e validação de identidade.
-- **Opção de Pagamento Integrado** – Facilitando transações seguras dentro do app.
-- **Solicitações Específicas** – Usuários podem publicar demandas específicas, como "Quero um almoço na UFRN", permitindo que fornecedores locais atendam essas necessidades.
+- ✅ **Marketplace Exclusivo** – Apenas moradores verificados ou usuários em regiões próximas podem anunciar e comprar.
+- 🌟 **Anúncios Destaques** – O usuário poderá pagar para destacar seu anúncio e aumentar sua visibilidade.
+- 📍 **Filtros de Localização Inteligente** – Busque produtos e serviços dentro do seu condomínio ou em áreas específicas.
+- 🔄 **Área de Trocas e Doações** – Incentivo à economia circular dentro das comunidades.
+- 🏢 **Painel para Síndicos** – Avisos, regras do condomínio e organização de eventos.
+- ⭐ **Avaliações e Reputação** – Sistema de feedback para aumentar a confiança entre os usuários.
+- 🔒 **Segurança e Moderação** – Denúncia de anúncios inadequados e validação de identidade.
+- 💳 **Opção de Pagamento Integrado** – Facilitando transações seguras dentro do app.
+- 📢 **Solicitações Específicas** – Usuários podem publicar demandas específicas, como "Quero um almoço na UFRN".
 
-## Tecnologias Usadas
+---
 
-### Front-End (Typescript)
+## 🛠 Tecnologias Usadas
 
-- **React Native**: Framework para construção de aplicações móveis nativas.
-- **Ignite**: Boilerplate para acelerar o desenvolvimento de apps React Native com boas práticas.
-- **TypeScript**: Linguagem de programação que adiciona tipagem estática ao JavaScript.
-- **Axios**: Biblioteca para fazer requisições HTTP.
-- **React Navigation**: Navegação para a aplicação.
+### **Front-End (TypeScript)**
+- ⚛ **React Native** – Framework para construção de apps móveis nativos.
+- 🚀 **Ignite** – Boilerplate para aceleração do desenvolvimento.
+- 🛡 **TypeScript** – Tipagem estática para mais segurança e produtividade.
+- 🔗 **Axios** – Requisições HTTP eficientes.
+- 📲 **React Navigation** – Sistema de navegação flexível.
 
-### Back-End (Python)
-
-- **FastAPI**: Framework moderno e rápido para construção de APIs RESTful.
-- **Prisma**: ORM moderno e eficiente para trabalhar com bancos de dados SQL.
-- **JWT**: Para autenticação e autorização de usuários.
-- **PostgreSQL**: Banco de dados relacional para armazenar dados da aplicação.
+### **Back-End (Python)**
+- ⚡ **FastAPI** – Framework moderno e de alto desempenho para APIs.
+- 🗄 **Prisma** – ORM para banco de dados SQL.
+- 🔐 **JWT** – Autenticação segura.
+- 🏦 **PostgreSQL** – Banco de dados escalável e confiável.
 
 ### **Outras Tecnologias**
+- 🔔 WebSockets para atualizações em tempo real.
+- 🚀 CI/CD para deploy automatizado.
 
-- WebSockets para atualizações em tempo real
-- CI/CD para deploy automatizado
+---
 
 ## 💡 Oportunidade de Investimento
 
-O **Vizinn App** resolve um problema real e atende a uma demanda crescente por soluções hiperlocais. Estamos buscando investidores para expandir nossa base de usuários e desenvolver novas funcionalidades.
+O **Vizinn App** resolve um problema real e atende a uma demanda crescente por soluções hiperlocais. Buscamos investidores para expandir nossa base de usuários e desenvolver novas funcionalidades.
 
-- **Modelo de Receita:** Anúncios segmentados, comissão sobre vendas e planos premium para serviços profissionais.
-- **Mercado Potencial:** Milhares de condomínios e bairros estratégicos em Natal - RN e região com necessidade de soluções de comércio local.
-- **Diferencial Competitivo:** Segurança, comunidade ativa e experiência otimizada para usuários.
+- 📈 **Modelo de Receita:** Anúncios segmentados, comissão sobre vendas e planos premium.
+- 🌍 **Mercado Potencial:** Condomínios e bairros estratégicos no Nordeste do Brasil.
+- 🔥 **Diferencial Competitivo:** Segurança, comunidade ativa e experiência otimizada.
+
+---
 
 ## 📩 Contato
 
 Se você deseja apoiar essa iniciativa ou fazer parte do projeto, entre em contato:
-- **Email:** vizinn.app@gmail.com
+
+📧 **Email:** vizinn.app@gmail.com  
 
 ---
 
-# Funcionalidades Essenciais do MVP  
+# 📌 Funcionalidades Essenciais do MVP  
 
 ## ✅ 1. Cadastro e Login  
 🔹 **Objetivo:** Garantir que apenas moradores ou usuários da região tenham acesso à plataforma.  
 
-### 📌 Funcionalidades:  
+📌 **Funcionalidades:**  
 - Cadastro por e-mail e senha ou login com Google/Facebook.  
-- Validação via código SMS/e-mail para garantir a identidade do usuário.  
-- Possibilidade de confirmar residência via código do condomínio (caso aplicável).  
-- Perfil básico do usuário (nome, foto, localização e breve descrição).  
+- Validação via código SMS/e-mail para garantir identidade.  
+- Confirmação de residência via código do condomínio (opcional).  
+- Perfil básico do usuário (nome, foto, localização).  
 
-### 🔧 Tecnologias sugeridas:  
-Firebase Authentication, OAuth (para login social), Twilio (para SMS).  
+🔧 **Tecnologias sugeridas:** Firebase Authentication, OAuth, Twilio (SMS).  
 
 ---
 
 ## ✅ 2. Marketplace Hiperlocal  
-🔹 **Objetivo:** Permitir que moradores comprem e vendam produtos/serviços entre si de forma prática.  
+🔹 **Objetivo:** Permitir que moradores comprem e vendam produtos/serviços entre si.  
 
-### 📌 Funcionalidades:  
+📌 **Funcionalidades:**  
 - Criar anúncios com título, descrição, preço e fotos.  
-- Seleção de categoria (ex.: Eletrônicos, Serviços, Móveis, Alimentação, etc.).  
-- Visualização de anúncios em um feed organizado por localização e categoria.  
-- Opção de marcar um item como "Vendido" para evitar anúncios inativos.  
+- Seleção de categoria (Ex: Eletrônicos, Serviços, Móveis).  
+- Feed de anúncios organizados por localização e categoria.  
+- Opção de marcar um item como "Vendido".  
 
-### 🔧 Tecnologias sugeridas:  
-Firebase Firestore, PostgreSQL/MongoDB (armazenamento), Cloudinary/Firebase Storage (imagens).  
+🔧 **Tecnologias sugeridas:** Firestore, PostgreSQL/MongoDB, Cloudinary.  
 
 ---
 
 ## ✅ 3. Filtros de Localização Inteligente  
 🔹 **Objetivo:** Permitir que os usuários encontrem produtos e serviços próximos a eles.  
 
-### 📌 Funcionalidades:  
-- Seleção manual da área de interesse (meu condomínio, bairros próximos, universidades, etc.).  
+📌 **Funcionalidades:**  
+- Definição manual da área de interesse.  
 - Filtragem por distância (ex.: até 2km, até 5km).  
-- Opção de buscar apenas dentro do condomínio do usuário.  
+- Busca apenas dentro do condomínio do usuário.  
 
-### 🔧 Tecnologias sugeridas:  
-Google Maps API, GeoFire (para busca geolocalizada).  
+🔧 **Tecnologias sugeridas:** Google Maps API, GeoFire.  
 
 ---
 
 ## ✅ 4. Chat Interno entre Usuários  
 🔹 **Objetivo:** Facilitar a comunicação entre compradores e vendedores diretamente no app.  
 
-### 📌 Funcionalidades:  
+📌 **Funcionalidades:**  
 - Mensagens privadas entre usuários.  
 - Notificações push para novas mensagens.  
 - Indicação de mensagens lidas/não lidas.  
 
-### 🔧 Tecnologias sugeridas:  
-Firebase Firestore (mensagens em tempo real), Firebase Cloud Messaging (notificações push).  
+🔧 **Tecnologias sugeridas:** Firestore (tempo real), Firebase Cloud Messaging.  
 
 ---
 
 ## ✅ 5. Moderação e Segurança  
 🔹 **Objetivo:** Criar um ambiente seguro e confiável para os usuários.  
 
-### 📌 Funcionalidades:  
-- **Sistema de Denúncias:** Opção para reportar anúncios ou usuários suspeitos.  
+📌 **Funcionalidades:**  
+- **Sistema de Denúncias:** Reportar anúncios ou usuários suspeitos.  
 - **Regras básicas:** Termos de uso visíveis e aceitos no cadastro.  
-- **Bloqueio de usuários:** Moderadores podem suspender perfis problemáticos.  
+- **Bloqueio de usuários:** Moderação ativa.  
 
-### 🔧 Tecnologias sugeridas:  
-Firebase Moderation, sistema interno de denúncias para moderação manual.  
+🔧 **Tecnologias sugeridas:** Firebase Moderation, moderação manual.  
 
 ---
 
-# Plano de Assinatura no MVP  
+# 📢 Plano de Assinatura no MVP  
 
 ## ✅ 1. Modelo de Assinatura  
 
@@ -146,21 +145,24 @@ Firebase Moderation, sistema interno de denúncias para moderação manual.
 
 ## ✅ 2. Implementação da Assinatura  
 
-### 📌 Funcionalidades:  
+📌 **Funcionalidades:**  
 - Tela de assinatura com detalhes dos benefícios.  
 - Sistema de pagamento integrado (**Stripe, Mercado Pago ou App Store/Google Play**).  
 - Controle de planos no perfil do usuário.  
 - Alerta quando o usuário gratuito atingir o limite de anúncios ou imagens.  
 
-### 🔧 Tecnologias sugeridas:  
+🔧 **Tecnologias sugeridas:**  
 - **Stripe / Mercado Pago** (pagamentos recorrentes).  
-- **Firebase Firestore** para armazenar o status da assinatura.  
-- **Cloud Functions** para gerenciar permissões de usuários pagos/gratuitos.  
+- **Firebase Firestore** para status da assinatura.  
+- **Cloud Functions** para controle de permissões.  
 
 ---
 
 ## ✅ 3. Experiência do Usuário  
-- **Ao tentar criar um 4º anúncio**, um pop-up oferece o upgrade para o plano premium.  
+- **Ao tentar criar um 4º anúncio**, um pop-up oferece o upgrade para premium.  
 - **Ao tentar adicionar mais de 2 imagens**, uma mensagem alerta sobre a limitação.  
 - **Página de “Meus Anúncios”** mostrando a contagem de anúncios ativos.  
 
+---
+
+🚀 **Vizinn App – Transformando Vizinhanças, Conectando Pessoas!**
