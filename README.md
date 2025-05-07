@@ -1,4 +1,4 @@
-# Vizinn App – O Marketplace Hiperlocal para Condomínios e Regiões Próximas
+# Vizinn – Marketplace hiperlocal para condomínios e regiões próximas
 
 ## 🏡 Sobre o Projeto
 
